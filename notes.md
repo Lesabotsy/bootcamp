@@ -16,5 +16,5 @@
 
 #### Extras Courses
 
-- [ ] [UCB - CS 61C - Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [📹](https://www.bilibili.com/video/BV1Se411c766/) [🥼](https://github.com/orgs/61c-teach/repositories)
+- [ ] [CMU - 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/~213/) [📹](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50&sortColumn=10&sortAscending=true) [🥼](http://csapp.cs.cmu.edu/3e/labs.html) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#15-213)
 - [ ] [MIT - 6.102 - Software Construction](https://web.mit.edu/6.031/www/sp23/)
