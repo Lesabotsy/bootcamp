@@ -17,7 +17,7 @@ This is my personal bootcamp. It will serve both as a journal and a guide for fu
 
 - [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/) [📹](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61a)
 - [ ] [UCB - CS 61B - Data Structures](https://sp21.datastructur.es/) [🥼](https://github.com/orgs/Berkeley-CS61B/repositories) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61b)
-- [ ] [UCB - CS 61C - Great Ideas in Computer Architecture (Machine Structures)](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [🥼](https://github.com/orgs/61c-teach/repositories)
+- [ ] [UCB - CS 61C - Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [🥼](https://github.com/orgs/61c-teach/repositories)
 - [ ] [CMU - 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/~213/) [📹](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50&sortColumn=10&sortAscending=true) [🥼](http://csapp.cs.cmu.edu/3e/labs.html) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#15-213)
 - [ ] [CMU - 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
 
