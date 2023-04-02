@@ -1,6 +1,6 @@
 #### CS 61A
 
-- This course is brutal. If you find it too hard, try [this](https://programming-23.mooc.fi/), [this](https://cs50.harvard.edu/x/2023/) or [this](https://htdp.org/) first. How to Design Programs being my favorite.
+- This course is brutal. If you find it too hard, try [this](https://programming-23.mooc.fi/), [this](https://cs50.harvard.edu/x/2023/) or [this](https://htdp.org/) first.
  
 #### CS 61B
 
