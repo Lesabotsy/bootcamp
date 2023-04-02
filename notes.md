@@ -17,8 +17,3 @@
 #### Data 100
 
 - Requires [Calculus](https://www.cengage.uk/c/calculus-early-transcendentals-metric-edition-9e-stewart-clegg-watson/9780357113516/) and [Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
-
-#### Extras Courses
-
-- [ ] [CMU - 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/~213/) [📹](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50&sortColumn=10&sortAscending=true) [🥼](http://csapp.cs.cmu.edu/3e/labs.html) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#15-213)
-- [ ] [MIT - 6.102 - Software Construction](https://web.mit.edu/6.031/www/sp23/)
