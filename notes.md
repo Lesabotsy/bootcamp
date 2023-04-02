@@ -10,9 +10,13 @@
 
 - This course requires you to know how to program in C. I suggest going through [this](https://nostarch.com/Effective_C) and [this](https://nostarch.com/algorithmic-thinking) first.
 
+#### 15-445
+
+- Requires knowledge of [C++](https://en.cppreference.com/w/)
+
 #### Data 100
 
-- Requires [Calculus]() and [Linear Algebra]()
+- Requires [Calculus](https://www.cengage.uk/c/calculus-early-transcendentals-metric-edition-9e-stewart-clegg-watson/9780357113516/) and [Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
 
 #### Extras Courses
 
