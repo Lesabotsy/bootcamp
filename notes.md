@@ -8,7 +8,7 @@
 
 #### 15-213
 
-- This course requires you to know how to program in C. I suggest going through [this](https://nostarch.com/Effective_C) and [this](https://nostarch.com/algorithmic-thinking) first.
+- Requires knowledge of C. I suggest going through [this](https://nostarch.com/Effective_C) and [this](https://nostarch.com/algorithmic-thinking) first.
 
 #### 15-445
 
