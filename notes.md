@@ -12,7 +12,7 @@
 
 #### 15-445
 
-- Requires knowledge of [C++](https://en.cppreference.com/w/)
+- Requires knowledge of C++. Use [this](https://www.learncpp.com/) or [this](https://en.cppreference.com/w/).
 
 #### Data 100
 
