@@ -24,5 +24,5 @@ This is my personal bootcamp. It will serve both as a journal and a guide for fu
 ### Data Science, Machine Learning and Deep Learning
 
 - [ ] [UCB - Data 100 - Principles and Techniques of Data Science](https://ds100.org/sp22/) [🥼](https://github.com/orgs/DS-100/repositories) [📝](https://github.com/Lesabotsy/bootcamp/blob/main/notes.md#data-100)
-- [ ] [UCB - CS 189 - Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) [📹](https://www.bilibili.com/video/BV1KA41157yn/?spm_id_from=333.337.search-card.all.click)
+- [ ] [UCB - CS 189 - Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) [📹](https://www.bilibili.com/video/BV1Gr4y1s7nF/?spm_id_from=333.337.search-card.all.click)
 - [ ] [CMU - 10-414 - Deep Learning Systems](https://dlsyscourse.org/)
