@@ -4,7 +4,7 @@
  
 #### CS 61B
 
--  Gradescope password: MB7ZPY
+-  Gradescope password: MB7ZPY.
 
 #### 15-213
 
@@ -16,7 +16,7 @@
 
 #### Data 100
 
-- Requires [Calculus](https://www.cengage.uk/c/calculus-early-transcendentals-metric-edition-9e-stewart-clegg-watson/9780357113516/) and [Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
+- Requires [Calculus](https://www.cengage.uk/c/calculus-early-transcendentals-metric-edition-9e-stewart-clegg-watson/9780357113516/) and [Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html).
 
 #### Extras Courses
 
