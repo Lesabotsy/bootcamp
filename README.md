@@ -23,6 +23,7 @@ This is my personal bootcamp. It will serve both as a journal and a guide for fu
 ### Nice to Know
 
 - [ ] [CMU - 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
+- [ ] [CMU - 15-721 - Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2023/)
 
 ### Machine Learning | Deep Learning | Data Science
 
