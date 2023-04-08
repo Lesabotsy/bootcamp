@@ -8,7 +8,7 @@
 
 #### 15-213
 
-- Requires knowledge of C. I suggest going through [this](https://nostarch.com/Effective_C) and [this](https://nostarch.com/algorithmic-thinking) first.
+- Requires knowledge of C. I suggest going through [this](http://knking.com/books/c2/index.html) and [this](https://link.springer.com/book/10.1007/978-3-030-54256-6) first.
 
 #### 15-445
 
