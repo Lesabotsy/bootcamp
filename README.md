@@ -22,7 +22,6 @@ This is my personal bootcamp. It will serve both as a journal and a guide for fu
 ### Extras
 
 - [ ] [UoH - Full Stack Open](https://fullstackopen.com/en/) [📹](https://www.youtube.com/playlist?list=PLVAxjdyIU8_xVHCKW7bgAF7VaTSqC4p_1) [📹](https://www.youtube.com/playlist?list=PLQZgTbQP8RhZW9j9HfEWuqq_IoE6tIhtD)
-- [ ] [CMU - 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
 
 ### Machine Learning / Deep Learning / Data Science
 
