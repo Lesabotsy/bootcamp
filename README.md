@@ -1,6 +1,6 @@
 ### Overview
 
-This is my personal bootcamp. It will serve both as a journal and a guide for future people who will attempt to self-study the basics of Computer Science, Data Science and Web Development. Anyone can learn anything, given quality resources, time and some determination. Take your time.
+This is my personal bootcamp. It will serve both as a journal and a guide for future people who will attempt to self-study the basics of Computer Science, Data Science and Web Development. Anyone can learn anything, given quality resources, time and some determination.
 
 🥼 Labs<br>
 📹 Videos<br>
