@@ -21,5 +21,3 @@
 #### Extras Courses
 
 - [ ] [UCB - CS 61C - Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [📹](https://www.bilibili.com/video/BV1Se411c766/) [🥼](https://github.com/orgs/61c-teach/repositories)
-- [ ] [CMU - 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
-- [ ] [CMU - 15-721 - Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2023/)
