@@ -1,6 +1,7 @@
 #### CS 61A
 
-- This course is brutal. If you find it too hard, try [this](https://programming-23.mooc.fi/), [this](https://cs50.harvard.edu/x/2023/) or [this](https://htdp.org/) first.
+- This course is BRUTAL.
+- If it's too hard, try [this](https://programming-23.mooc.fi/), [this](https://cs50.harvard.edu/x/2023/) or [this](https://htdp.org/) first.
  
 #### CS 61B
 
@@ -8,11 +9,13 @@
 
 #### 15-213
 
-- Requires knowledge of C. I suggest going through [this](http://knking.com/books/c2/index.html) and [this](https://link.springer.com/book/10.1007/978-3-030-54256-6) first.
+- Requires knowledge of C.
+- I suggest going through [this](http://knking.com/books/c2/index.html), then [this](https://link.springer.com/book/10.1007/978-3-030-54256-6) first.
 
 #### 15-445
 
-- Requires knowledge of C++. Use [this](https://www.learncpp.com/) or [this](https://en.cppreference.com/w/).
+- Requires knowledge of C++.
+- Use [this](https://www.learncpp.com/) or [this](https://en.cppreference.com/w/).
 
 #### Data 100
 
