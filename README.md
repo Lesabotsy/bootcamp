@@ -14,7 +14,7 @@ This is my personal bootcamp. It will serve both as a journal and a guide for fu
 - High School Mathematics
 - Discipline
 
-### Main
+### Basics
 
 - [x] [UCB - CS 61A - Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/) [📹](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61a)
 - [x] [UCB - CS 61B - Data Structures](https://sp21.datastructur.es/) [🥼](https://github.com/orgs/Berkeley-CS61B/repositories) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61b)
