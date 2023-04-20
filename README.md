@@ -6,6 +6,7 @@ This is my personal bootcamp. It will serve both as a journal and a guide for fu
 📹 Videos<br>
 📕 Books<br>
 📝 Notes<br>
+🔥 Hotness<br>
 
 ### Prerequisites
 
