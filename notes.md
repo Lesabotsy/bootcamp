@@ -21,6 +21,10 @@
 
 - Requires [Calculus](https://www.cengage.uk/c/calculus-early-transcendentals-metric-edition-9e-stewart-clegg-watson/9780357113516/) and [Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html).
 
+#### CS 189
+
+- Finish [Mathematics for Machine Learning](https://mml-book.github.io/) before starting.
+
 #### Extras Courses
 
 - [ ] [UCB - CS 61C - Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [📹](https://www.bilibili.com/video/BV1Se411c766/) [🥼](https://github.com/orgs/61c-teach/repositories)
