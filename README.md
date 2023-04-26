@@ -14,10 +14,10 @@ This is my personal bootcamp. It will serve both as a journal and a guide for fu
 - High School Mathematics
 - Discipline
 
-### Books
+### Books (Pick one)
 
-[Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/125967651X/ref=sr_1_5?qid=1682504376&refinements=p_27%3AKenneth+Rosen&s=books&sr=1-5&text=Kenneth+Rosen)
-[Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
+- [ ] [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/125967651X/ref=sr_1_5?qid=1682504376&refinements=p_27%3AKenneth+Rosen&s=books&sr=1-5&text=Kenneth+Rosen)
+- [ ] [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
 
 ### Basics
 
