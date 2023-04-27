@@ -27,7 +27,7 @@ This is my personal bootcamp. It will serve both as a journal and a guide for fu
 ### Specializations
 
 - [x] [UoH - Full Stack Open](https://fullstackopen.com/en/) [📹](https://www.youtube.com/playlist?list=PLVAxjdyIU8_xVHCKW7bgAF7VaTSqC4p_1) [📹](https://www.youtube.com/playlist?list=PLQZgTbQP8RhZW9j9HfEWuqq_IoE6tIhtD)
+- [ ] [UCB - Data 100 - Principles and Techniques of Data Science](https://ds100.org/sp22/) [🥼](https://github.com/orgs/DS-100/repositories) [📝](https://github.com/Lesabotsy/bootcamp/blob/main/notes.md#data-100)
 - [ ] [CMU - 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
 - [ ] [UCB - CS 189 - Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) [📝](https://github.com/Lesabotsy/bootcamp/blob/main/notes.md#cs-189)
 - [ ] [CMU - 10-414 - Deep Learning Systems](https://dlsyscourse.org/)
-- [ ] [UCB - Data 100 - Principles and Techniques of Data Science](https://ds100.org/sp22/) [🥼](https://github.com/orgs/DS-100/repositories) [📝](https://github.com/Lesabotsy/bootcamp/blob/main/notes.md#data-100)
