@@ -1,6 +1,6 @@
 ### Overview
 
-This is a guide for people who want to self-study the basics of Computer Science, plus a few extras.
+This is a guide for people who want to self-study the basics of Computer Science, plus a some extras hot stuff.
 
 🥼 Labs<br>
 📹 Videos<br>
