@@ -13,9 +13,9 @@ This is a guide for people who want to self-study the basics of Computer Science
 - High School Mathematics
 - Discipline
 
-### Discrete Mathematics
+### Discrete Mathematics and Probability
 
-- [ ] [Discrete Mathematics with Applications - Susanna S. Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
+- [ ] [Brown - CSCI 0220 - Discrete Structures and Probability](https://cs22.io/)
 
 ### Basics
 
