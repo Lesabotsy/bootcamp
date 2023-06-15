@@ -22,7 +22,7 @@ This is a guide for people who want to self-study the basics of Computer Science
 
 ### Web Development
 
-- [ ] [UoH - Full Stack Open](https://fullstackopen.com/en/) [📹](https://www.youtube.com/playlist?list=PLVAxjdyIU8_xVHCKW7bgAF7VaTSqC4p_1) [📹](https://www.youtube.com/playlist?list=PLQZgTbQP8RhZW9j9HfEWuqq_IoE6tIhtD)
+- [ ] [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/) [📹](https://www.youtube.com/playlist?list=PLVAxjdyIU8_xVHCKW7bgAF7VaTSqC4p_1) [📹](https://www.youtube.com/playlist?list=PLQZgTbQP8RhZW9j9HfEWuqq_IoE6tIhtD)
 
 ### Databases
 
