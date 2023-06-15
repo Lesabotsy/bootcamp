@@ -13,7 +13,7 @@ This is a guide for people who want to self-study the basics of Computer Science
 - High School Mathematics
 - Discipline
 
-### Basics
+### Core Computer Science
 
 - [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/) [📹](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61a)
 - [ ] [UCB - CS 61B - Data Structures](https://sp21.datastructur.es/) [🥼](https://github.com/orgs/Berkeley-CS61B/repositories) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61b)
