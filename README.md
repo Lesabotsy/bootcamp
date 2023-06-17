@@ -20,6 +20,10 @@ This is a guide for people who want to self-study the basics of Computer Science
 - [ ] [CMU - 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/~213/) [📹](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50&sortColumn=10&sortAscending=true) [🥼](http://csapp.cs.cmu.edu/3e/labs.html) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#15-213)
 - [ ] [Brown University - CSCI 0220 - Discrete Structures and Probability](https://cs22.io/)
 
+### Functional Programming
+
+- [ ] [Cornell - CS 3110 - Data Structures and Functional Programming](https://cs3110.github.io/textbook/cover.html)
+
 ### Web Development
 
 - [ ] [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/) [📹](https://www.youtube.com/playlist?list=PLVAxjdyIU8_xVHCKW7bgAF7VaTSqC4p_1) [📹](https://www.youtube.com/playlist?list=PLQZgTbQP8RhZW9j9HfEWuqq_IoE6tIhtD)
