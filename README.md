@@ -22,7 +22,7 @@ This is a guide for people who want to self-study the basics of Computer Science
 
 ### Functional Programming
 
-- [ ] [Cornell - CS 3110 - Data Structures and Functional Programming](https://cs3110.github.io/textbook/cover.html)
+- [ ] [Cornell - CS 3110 - Data Structures and Functional Programming](https://cs3110.github.io/textbook/cover.html) [📹](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
 
 ### Web Development
 
