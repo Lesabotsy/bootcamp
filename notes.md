@@ -19,7 +19,7 @@
 
 #### Data 100
 
-- Requires [Calculus](https://www.cengage.uk/c/calculus-early-transcendentals-metric-edition-9e-stewart-clegg-watson/9780357113516/) and [Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html).
+- Requires [Calculus](https://www.cengage.uk/c/calculus-early-transcendentals-metric-edition-9e-stewart-clegg-watson/9780357113516/) and [Linear Algebra](https://www.cambridge.org/in/universitypress/subjects/mathematics/algebra/introduction-linear-algebra-6th-edition).
 
 #### CS 189
 
