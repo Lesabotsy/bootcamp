@@ -15,7 +15,7 @@
 #### 15-445
 
 - Requires knowledge of C++.
-- Use [this](https://www.learncpp.com/) or [this](https://en.cppreference.com/w/).
+- Use [this](https://www.learncpp.com/), [this](https://en.cppreference.com/w/) or [this](https://www.pearson.com/en-us/subject-catalog/p/tour-of-c-a/P200000002116).
 
 #### Data 100
 
