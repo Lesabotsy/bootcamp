@@ -28,4 +28,4 @@
 #### Extras Courses
 
 - [ ] [UCB - CS 61C - Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [📹](https://www.bilibili.com/video/BV1Se411c766/) [🥼](https://github.com/orgs/61c-teach/repositories)
-- [ ] [UoT - Deep Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/) [📹](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) ➕ [UoT - Math for Deep Learning](https://uni-tuebingen.de/de/241678) [📹](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
+- [ ] [UoT - Deep Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/) [📹](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) with [UoT - Math for Deep Learning](https://uni-tuebingen.de/de/241678) [📹](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
