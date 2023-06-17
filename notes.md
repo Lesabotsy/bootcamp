@@ -1,6 +1,6 @@
 #### CS 61A
 
-- This course is BRUTAL.
+- This course is BRUTAL if it's your first programming course.
 - If it's too hard, try [this](https://programming-23.mooc.fi/), [this](https://cs50.harvard.edu/x/2023/) or [this](https://htdp.org/) first.
  
 #### CS 61B
