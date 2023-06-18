@@ -1,6 +1,6 @@
 ### Overview
 
-This is a guide for people who want to self-study the basics of Computer Science, plus a some extras hot stuff.
+This is a guide for people who want to self-study the basics of Computer Science, plus a some extras hot stuff. There is a discord server [here](https://discord.gg/8kTaMrKS) if you're lookig for a community of self learning people.
 
 🥼 Labs | 📹 Videos | 📕 Books | 📝 Notes
 
