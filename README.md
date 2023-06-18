@@ -2,10 +2,7 @@
 
 This is a guide for people who want to self-study the basics of Computer Science, plus a some extras hot stuff.
 
-🥼 Labs<br>
-📹 Videos<br>
-📕 Books<br>
-📝 Notes<br>
+🥼 Labs | 📹 Videos | 📕 Books | 📝 Notes
 
 ### Prerequisites
 
@@ -13,7 +10,7 @@ This is a guide for people who want to self-study the basics of Computer Science
 - High School Mathematics
 - Discipline
 
-### Core Computer Science
+### Courses
 
 - [ ] [CSCI 0220 - Discrete Structures and Probability](https://cs22.io/)
 - [ ] [CS 61A - Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/) [📹](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61a)
