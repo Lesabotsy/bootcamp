@@ -28,6 +28,7 @@
 #### Extras Courses
 
 - [ ] [CS 3110 - Data Structures and Functional Programming](https://cs3110.github.io/textbook/cover.html) [📹](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
+- [ ] [6-006 - Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) [📹](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [ ] [15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/~213/) [📹](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50&sortColumn=10&sortAscending=true) [🥼](http://csapp.cs.cmu.edu/3e/labs.html) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#15-213)
 - [ ] [15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
 - [ ] [15-721 - Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2023/)
