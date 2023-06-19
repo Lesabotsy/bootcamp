@@ -2,7 +2,7 @@
 
 - [ ] [Cornell University - CS 3110 - Data Structures and Functional Programming](https://cs3110.github.io/textbook/cover.html) [📹](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
 - [ ] [MIT - 6-006 - Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) [📹](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
-- [ ] [CMU - 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/~213/) [📹](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50&sortColumn=10&sortAscending=true) [🥼](http://csapp.cs.cmu.edu/3e/labs.html) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#15-213)
+- [ ] [UCB - CS 61C - Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [📹](https://www.bilibili.com/video/BV1Se411c766/) [🥼](https://github.com/orgs/61c-teach/repositories) [📕](https://shop.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6)
 - [ ] [CMU - 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
 - [ ] [CMU - 15-721 - Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2023/)
 - [ ] [UCB - Data 100 - Principles and Techniques of Data Science](https://ds100.org/sp22/) [🥼](https://github.com/orgs/DS-100/repositories) [📝](https://github.com/Lesabotsy/bootcamp/blob/main/notes.md#data-100)
