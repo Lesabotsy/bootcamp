@@ -10,12 +10,12 @@
 #### 15-213
 
 - Requires knowledge of C.
-- I suggest going through [this](https://inst.eecs.berkeley.edu/~cs61c/fa22/) or [this](http://knking.com/books/c2/index.html), then [this](https://link.springer.com/book/10.1007/978-3-030-54256-6) first.
+- I suggest going through [this](http://knking.com/books/c2/index.html).
 
 #### 15-445
 
 - Requires knowledge of C++.
-- Use [this](https://ccc.codes/) or [this](https://www.pearson.com/en-us/subject-catalog/p/tour-of-c-a/P200000002116).
+- Use [this](https://www.pearson.com/en-us/subject-catalog/p/tour-of-c-a/P200000002116).
 
 #### Data 100
 
