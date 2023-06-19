@@ -1,7 +1,7 @@
 #### CS 61A
 
 - This course is brutal, if it's your first programming / cs course.
-- If it's too hard, try [this](https://cs50.harvard.edu/x/2023/) or [this](https://htdp.org/) first, then come back when you're ready.
+- If it's too hard, try [this](https://cs50.harvard.edu/x/2023/) or [this](https://htdp.org/) first.
  
 #### CS 61B
 
