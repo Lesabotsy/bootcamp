@@ -1,5 +1,6 @@
 #### Extras Courses
 
+- [ ] [Harvard University - CS50 - Introduction to the Intellectual Enterprises of Computer Science and the Art of Programming](https://cs50.harvard.edu/x/2023/)
 - [ ] [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/) [📹](https://www.youtube.com/playlist?list=PLVAxjdyIU8_xVHCKW7bgAF7VaTSqC4p_1) [📹](https://www.youtube.com/playlist?list=PLQZgTbQP8RhZW9j9HfEWuqq_IoE6tIhtD)
 - [ ] [Cornell University - CS 3110 - Data Structures and Functional Programming](https://cs3110.github.io/textbook/cover.html) [📹](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
 - [ ] [MIT - 6-006 - Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) [📹](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
