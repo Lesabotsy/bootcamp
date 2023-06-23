@@ -12,8 +12,8 @@ This is a guide for people who want to self-study the basics of Computer Science
 
 ### Courses
 
-- [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/)
-- [ ] [UCB - CS 61B - Data Structures](https://sp21.datastructur.es/) [🥼](https://github.com/orgs/Berkeley-CS61B/repositories) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61b)
-- [ ] [UCB - CS 61C - Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [📹](https://www.bilibili.com/video/BV1Se411c766/) [🥼](https://github.com/orgs/61c-teach/repositories)
-- [ ] [Brown University - CSCI 0220 - Discrete Structures and Probability](https://cs22.io/) [📕](https://www.cengage.uk/c/discrete-mathematics-with-applications-metric-edition-5e-epp/9780357114087/)
+- [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs Fall 2023](https://inst.eecs.berkeley.edu/~cs61a/fa22/)
+- [ ] [UCB - CS 61B - Data Structures Spring 2021](https://sp21.datastructur.es/) [🥼](https://github.com/orgs/Berkeley-CS61B/repositories) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61b)
+- [ ] [UCB - CS 61C - Great Ideas in Computer Architecture Fall 2022](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [📹](https://www.bilibili.com/video/BV1Se411c766/) [🥼](https://github.com/orgs/61c-teach/repositories)
+- [ ] [Brown University - CSCI 0220 - Discrete Structures and Probability Sprin 2023](https://cs22.io/) [📕](https://www.cengage.uk/c/discrete-mathematics-with-applications-metric-edition-5e-epp/9780357114087/)
 - [ ] [University of Helsinki - Full Stack Open 2023](https://fullstackopen.com/en/)
