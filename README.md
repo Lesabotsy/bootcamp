@@ -10,7 +10,7 @@ The CS 61 series is an introduction to computer science, with particular emphasi
 
 CSCI 0220 gives you the tools to explore interesting questions and convince yourself and others of their answers. You'll be introduced to new worlds of ideas and ways of thinking. We'll learn about Set Theory, Logic, Number Theory, Combinatorics, Graph Theory, and Probability.
 
-Full Stack Open will teach you React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
+Full Stack Open serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs. It covers testing, configuration and environment management, the use of databases for storing the application’s data amongst other things.
 
 🥼 Labs | 📹 Videos | 📕 Books | [📝 Notes](https://github.com/Lesabotsy/bootcamp/blob/main/notes.md)
 
