@@ -12,7 +12,7 @@ This is a guide for people who want to self-study the basics of Computer Science
 
 ### Courses
 
-- [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs - Fall 2023](https://inst.eecs.berkeley.edu/~cs61a/fa22/)
+[UCB - CS 61A - Structure and Interpretation of Computer Programs - Fall 2023](https://inst.eecs.berkeley.edu/~cs61a/fa22/)
 
 The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
 
