@@ -8,6 +8,8 @@ The CS 61 series is an introduction to computer science, with particular emphasi
  - CS 61B deals with the more advanced engineering aspects of software, such as constructing and analyzing large programs.
  - CS 61C focuses on machines and how they execute programs.
 
+CSCI 0220 gives you the tools to explore interesting questions and convince yourself and others of their answers. You'll be introduced to new worlds of ideas and ways of thinking. We'll learn about Set Theory, Logic, Number Theory, Combinatorics, Graph Theory, and Probability.
+
 🥼 Labs | 📹 Videos | 📕 Books | [📝 Notes](https://github.com/Lesabotsy/bootcamp/blob/main/notes.md)
 
 ### Prerequisites
