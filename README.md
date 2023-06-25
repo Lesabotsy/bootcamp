@@ -12,6 +12,8 @@ This is a guide for people who want to self-study the basics of Computer Science
 
 ### Courses
 
+- [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs - Fall 2023](https://inst.eecs.berkeley.edu/~cs61a/fa22/)
+
 The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
 
 CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.
@@ -23,7 +25,6 @@ CS 61A primarily uses the Python 3 programming language. Python is a popular lan
 
 Mastery of a particular programming language is a very useful side effect of CS 61A. However, our goal is not to dictate what language you use in your future endeavors. Instead, our hope is that once you have learned the concepts involved in programming, you will find that picking up a new programming language is but a few days' work. In fact, you will be asked to learn at least two other languages, Scheme and SQL, during the course.
 
-- [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs - Fall 2023](https://inst.eecs.berkeley.edu/~cs61a/fa22/)
 - [ ] [UCB - CS 61B - Data Structures - Spring 2021](https://sp21.datastructur.es/) [🥼](https://github.com/orgs/Berkeley-CS61B/repositories) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61b)
 - [ ] [UCB - CS 61C - Great Ideas in Computer Architecture - Fall 2022](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [📹](https://www.bilibili.com/video/BV1Se411c766/) [🥼](https://github.com/orgs/61c-teach/repositories)
 - [ ] [Brown University - CSCI 0220 - Discrete Structures and Probability - Spring 2023](https://cs22.io/) [📕](https://www.cengage.uk/c/discrete-mathematics-with-applications-metric-edition-5e-epp/9780357114087/)
