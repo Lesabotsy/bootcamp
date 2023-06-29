@@ -27,3 +27,11 @@ Full Stack Open serves as an introduction to modern web application development 
 - [ ] [UCB - CS 61C - Great Ideas in Computer Architecture - Fall 2022](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [📹](https://www.bilibili.com/video/BV1Se411c766/) [🥼](https://github.com/orgs/61c-teach/repositories)
 - [ ] [Brown University - CSCI 0220 - Discrete Structures and Probability - Spring 2023](https://cs22.io/) [📕](https://www.cengage.uk/c/discrete-mathematics-with-applications-metric-edition-5e-epp/9780357114087/)
 - [ ] [University of Helsinki - Full Stack Open - Spring 2023](https://fullstackopen.com/en/)
+
+### Q&A
+
+#### How long is this going to take?
+Count 150 to 200h per course.
+
+#### Will I be ready for a job after completion?
+Yes, build a portfolio and a network a long the way though. Getting a job is matter of who you know more than what you know if you don't have a degree.
