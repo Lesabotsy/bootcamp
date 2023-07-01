@@ -34,4 +34,4 @@ Full Stack Open serves as an introduction to modern web application development 
 Count 150 to 200h per course.
 
 #### Will I be ready for a job after completion?
-Yes, build a portfolio and a network a long the way though. Getting a job is matter of who you know more than what you know if you don't have a degree.
+Yes, but make sure to build a portfolio and start networking along the way. Getting a job is matter of who you know more than what you know if you don't have a degree.
