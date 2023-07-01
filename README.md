@@ -28,7 +28,7 @@ Full Stack Open serves as an introduction to modern web application development 
 - [ ] [Brown University - CSCI 0220 - Discrete Structures and Probability - Spring 2023](https://cs22.io/) [📕](https://www.cengage.uk/c/discrete-mathematics-with-applications-metric-edition-5e-epp/9780357114087/)
 - [ ] [University of Helsinki - Full Stack Open - Spring 2023](https://fullstackopen.com/en/)
 
-### Q&A
+### FAQ
 
 #### How long is this going to take?
 Count 150 to 200h per course.
