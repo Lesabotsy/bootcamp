@@ -22,7 +22,7 @@ Full Stack Open serves as an introduction to modern web application development 
 
 ### Courses
 
-- [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs - Spring 2023](https://inst.eecs.berkeley.edu/~cs61a/sp23/)
+- [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs - Fall 2022](https://inst.eecs.berkeley.edu/~cs61a/fa22/)
 - [ ] [UCB - CS 61B - Data Structures - Spring 2021](https://sp21.datastructur.es/) [🥼](https://github.com/orgs/Berkeley-CS61B/repositories) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61b)
 - [ ] [UCB - CS 61C - Great Ideas in Computer Architecture - Fall 2022](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [📹](https://www.bilibili.com/video/BV1Se411c766/) [🥼](https://github.com/orgs/61c-teach/repositories)
 - [ ] [Brown University - CSCI 0220 - Discrete Structures and Probability - Spring 2023](https://cs22.io/) [📕](https://www.cengage.uk/c/discrete-mathematics-with-applications-metric-edition-5e-epp/9780357114087/)
