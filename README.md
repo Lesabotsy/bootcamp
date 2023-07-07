@@ -31,7 +31,7 @@ Full Stack Open serves as an introduction to modern web application development 
 ### FAQ
 
 #### How long is this going to take?
-Count 150 to 200h per course.
+Count 200 to 250h per course.
 
 #### Will I be ready for a job after completion?
 Yes, but make sure to build a portfolio and start networking along the way. Getting a job is matter of who you know more than what you know if you don't have a degree.
