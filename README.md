@@ -19,7 +19,6 @@ Full Stack Open serves as an introduction to modern web application development 
 - Fluency in English
 - High School Mathematics [📕](https://www.cambridge.org/highereducation/books/maths-a-students-survival-guide/D12E61923C2E86012D1D430BE5737AE0#overview)
 - Discipline
-- "Unfollow all those influencers on LinkedIn and Twitter. You don’t need them, in fact, they are dangerous. They’re not here to guide, help or teach you. They will take you down a path of failure so that you are more open to giving them your money for a quick win." Alasdair Brown, Leading Developer Advocacy at [Tinybird](https://www.tinybird.co/).
 
 ### Courses
 
