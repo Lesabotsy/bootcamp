@@ -1,6 +1,6 @@
 ### Prerequisites
 
-- [ ] [Calculus I-II](https://www.amazon.com/gp/product/0914098918?smid=ATVPDKIKX0DER&psc=1&linkCode=sl1&tag=kramer2022-20&linkId=0fe977348db404e4d9c09ba8292ca4e2&language=en_US&ref_=as_li_ss_tl) [Calculus III](https://matrixeditions.com/5thUnifiedApproach.html)
+- [ ] [Calculus I-II](https://www.amazon.com/gp/product/0914098918?smid=ATVPDKIKX0DER&psc=1&linkCode=sl1&tag=kramer2022-20&linkId=0fe977348db404e4d9c09ba8292ca4e2&language=en_US&ref_=as_li_ss_tl) | [Calculus III](https://matrixeditions.com/5thUnifiedApproach.html)
 - [ ] [Linear Algebra](https://www.amazon.com/Linear-Algebra-Cambridge-Mathematical-Textbooks-ebook/dp/B07CJXG6K1?ref_=ast_author_mpb)
 - [ ] [Probability and Statistics]()
 
