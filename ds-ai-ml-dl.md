@@ -1,6 +1,6 @@
 ### Prerequisites
 
-- [ ] [Calculus I-II-III](https://www.amazon.com/Calculus-Early-Transcendentals-James-Stewart/dp/1337613924/?_encoding=UTF8&pd_rd_w=BWtgR&content-id=amzn1.sym.ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_p=ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_r=134-1412360-6699557&pd_rd_wg=VzvuQ&pd_rd_r=a5b8e233-7bfe-4d76-8ac2-6acd5a077695&ref_=aufs_ap_sc_dsk)
+- [ ] [Calculus](https://www.amazon.com/Calculus-Early-Transcendentals-James-Stewart/dp/1337613924/?_encoding=UTF8&pd_rd_w=BWtgR&content-id=amzn1.sym.ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_p=ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_r=134-1412360-6699557&pd_rd_wg=VzvuQ&pd_rd_r=a5b8e233-7bfe-4d76-8ac2-6acd5a077695&ref_=aufs_ap_sc_dsk)
 - [ ] [Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679/?_encoding=UTF8&pd_rd_w=Uo2Ab&content-id=amzn1.sym.ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_p=ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_r=134-1412360-6699557&pd_rd_wg=yCsD4&pd_rd_r=dee7d7c7-72d4-40d7-9e71-a39bfbddba92&ref_=aufs_ap_sc_dsk)
 - [ ] [Probability and Statistics]()
 
