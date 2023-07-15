@@ -1,7 +1,7 @@
 ### Prerequisites
 
-- [ ] [Calculus I-II](https://www.amazon.com/gp/product/0914098918?smid=ATVPDKIKX0DER&psc=1&linkCode=sl1&tag=kramer2022-20&linkId=0fe977348db404e4d9c09ba8292ca4e2&language=en_US&ref_=as_li_ss_tl) | [Calculus III](https://matrixeditions.com/5thUnifiedApproach.html)
-- [ ] [Linear Algebra](https://www.cambridge.org/highereducation/books/linear-algebra/2914578A070EC0AD761C80E9B70F3897#overview)
+- [ ] [Calculus I-II-III](https://www.amazon.com/Calculus-Early-Transcendentals-James-Stewart/dp/1337613924/?_encoding=UTF8&pd_rd_w=BWtgR&content-id=amzn1.sym.ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_p=ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_r=134-1412360-6699557&pd_rd_wg=VzvuQ&pd_rd_r=a5b8e233-7bfe-4d76-8ac2-6acd5a077695&ref_=aufs_ap_sc_dsk)
+- [ ] [Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679/?_encoding=UTF8&pd_rd_w=Uo2Ab&content-id=amzn1.sym.ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_p=ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_r=134-1412360-6699557&pd_rd_wg=yCsD4&pd_rd_r=dee7d7c7-72d4-40d7-9e71-a39bfbddba92&ref_=aufs_ap_sc_dsk)
 - [ ] [Probability and Statistics]()
 
 #### Data Science
