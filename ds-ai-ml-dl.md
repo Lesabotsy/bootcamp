@@ -1,8 +1,8 @@
 ### Prerequisites
 
-- [] [Calculus]()
-- [] [Linear Algebra]()
-- [] [Probability and Statistics]()
+- [ ] [Calculus]()
+- [ ] [Linear Algebra]()
+- [ ] [Probability and Statistics]()
 - 
 #### Data Science
 
