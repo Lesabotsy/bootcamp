@@ -1,3 +1,9 @@
+### Prerequisites
+
+- [] [Calculus]()
+- [] [Linear Algebra]()
+- [] [Probability and Statistics]()
+- 
 #### Data Science
 
 - [ ] [UCB - Data 8 - Foundations of Data Science - Spring 2023](https://www.data8.org/sp23/) [🥼](https://github.com/orgs/data-8/repositories)
