@@ -16,9 +16,9 @@ Full Stack Open serves as an introduction to modern web application development 
 
 ### Prerequisites
 
-- Fluency in English
-- High School Mathematics [📕](https://www.cambridge.org/highereducation/books/maths-a-students-survival-guide/D12E61923C2E86012D1D430BE5737AE0#overview)
-- Discipline
+- [ ] Fluency in English
+- [ ] High School Mathematics [📕](https://www.cambridge.org/highereducation/books/maths-a-students-survival-guide/D12E61923C2E86012D1D430BE5737AE0#overview)
+- [ ] Discipline
 
 ### Courses
 
