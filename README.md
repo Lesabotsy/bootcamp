@@ -1,7 +1,3 @@
-<p align="center">
-BOOTCAMP
-</p>
-
 ### Overview
 
 This is a guide for people who want to self-study the basics of Computer Science. There is a discord server [here](https://discord.gg/PhhaAyxq) if you're lookig for a community of self learning people. These being university courses, they won't stay online forever, make your own backup with [yt-dlp](https://github.com/yt-dlp/yt-dlp) for videos, and [wget](https://www.gnu.org/software/wget/) for websites.
