@@ -30,7 +30,9 @@ Full Stack Open serves as an introduction to modern web application development 
 ### Specialization
 
 - [ ] [Aalto University - Web Software Development 2.0](https://fitech101.aalto.fi/web-software-development-2-0/)
+- [ ] [Aalto University - Designing and Building Scalable Web Applications](https://fitech101.aalto.fi/designing-and-building-scalable-web-applications/)
 - [ ] [University of Helsinki - Full Stack Open - Spring 2023](https://fullstackopen.com/en/)
+
 
 ### FAQ
 
