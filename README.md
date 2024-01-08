@@ -27,7 +27,7 @@ Full Stack Open serves as an introduction to modern web application development 
 - [ ] [UCB - CS 61C - Great Ideas in Computer Architecture - Fall 2022](https://inst.eecs.berkeley.edu/~cs61c/fa22/) [📹](https://www.bilibili.com/video/BV1Se411c766/) [🥼](https://github.com/orgs/61c-teach/repositories)
 - [ ] [Brown University - CSCI 0220 - Discrete Structures and Probability - Spring 2023](https://cs22.io/) [📕](https://www.cengage.uk/c/discrete-mathematics-with-applications-metric-edition-5e-epp/9780357114087/)
 
-### Specialization
+### Specialization: Web Development
 
 - [ ] [Aalto University - Web Software Development](https://fitech101.aalto.fi/web-software-development-2-0/)
 - [ ] [Aalto University - Designing and Building Scalable Web Applications](https://fitech101.aalto.fi/designing-and-building-scalable-web-applications/)
