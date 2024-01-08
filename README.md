@@ -1,6 +1,6 @@
 ### Overview
 
-This is a guide for people who want to self-study the basics of Computer Science, in order to have solid foundations to be a web developer. There is a discord server [here](https://discord.gg/PhhaAyxq) if you're lookig for a community of self learning people. These being university courses, they won't stay online forever, make your own backup with [yt-dlp](https://github.com/yt-dlp/yt-dlp) for videos, and [wget](https://www.gnu.org/software/wget/) for websites.
+This is a guide for people who want to self-study the basics of Computer Science, for building solid foundations in order to be a web developer. There is a discord server [here](https://discord.gg/PhhaAyxq) if you're lookig for a community of self learning people. These being university courses, they won't stay online forever, make your own backup with [yt-dlp](https://github.com/yt-dlp/yt-dlp) for videos, and [wget](https://www.gnu.org/software/wget/) for websites.
 
 The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
 
