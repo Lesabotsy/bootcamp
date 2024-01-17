@@ -28,7 +28,7 @@ This is a guide for people who want to self-study the basics of Computer Science
 Count 200 to 250h per course.
 
 #### Shortcut?
-CS61A -> CS61B -> Full Stack Open.
+CS61A >> CS61B >> Full Stack Open.
 
 #### Will I be ready for a job after completion?
 Yes, but make sure to build a portfolio and start networking along the way. Getting a job is matter of who you know more than what you know if you don't have a degree.
