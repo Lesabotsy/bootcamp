@@ -1,6 +1,6 @@
 ### Overview
 
-This is a guide for people who want to self-study the basics of Computer Science, in order to build solid foundations and become a [web developer](https://github.com/Lesabotsy/bootcamp/blob/main/web-development.md) or whatever suits you really. There is a discord server [here](https://discord.gg/3UbxrsNB) if you're looking for a community of self learning people. These being university courses, they won't stay online forever, make your own backup with [yt-dlp](https://github.com/yt-dlp/yt-dlp) for videos, and [wget](https://www.gnu.org/software/wget/) for websites.
+This is a guide for people who want to self-study the basics of Computer Science, in order to build solid foundations and become a [web developer](https://github.com/Lesabotsy/bootcamp/blob/main/web-development.md) or whatever suits you really ([machine learning maybe?](https://github.com/Lesabotsy/bootcamp/blob/main/machine-learning.md)). There is a discord server [here](https://discord.gg/3UbxrsNB) if you're looking for a community of self learning people. These being university courses, they won't stay online forever, make your own backup with [yt-dlp](https://github.com/yt-dlp/yt-dlp) for videos, and [wget](https://www.gnu.org/software/wget/) for websites.
 
 - CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.
 - CS 61B deals with the more advanced engineering aspects of software, such as constructing and analyzing large programs.
