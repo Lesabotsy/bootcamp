@@ -1,6 +1,4 @@
 - [ ] [UCB - Data 100 - Principles and Techniques of Data Science](https://ds100.org/sp22/)
-- [ ] [UCB - Data 101 - Data Engineering](https://www.data101.org/sp24/)
-- [ ] [CMU - 15-388 - Practical Data Science](http://www.datasciencecourse.org/)
 - [ ] [UCB - CS 188 - Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp23/)
 - [ ] [UCB - CS 189 - Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 - [ ] [CMU - 10-414 - Deep Learning Systems](https://dlsyscourse.org/)
