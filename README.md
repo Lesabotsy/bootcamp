@@ -11,24 +11,24 @@ This is a guide for people who want to self-study the basics of Computer Science
 
 ### Prerequisites
 
-- [ ] Fluency in English
-- [ ] High School Mathematics [📕](https://www.cambridge.org/highereducation/books/maths-a-students-survival-guide/D12E61923C2E86012D1D430BE5737AE0#overview)
-- [ ] Discipline
+- [ ] Fluency in english
+- [ ] High school mathematics [📕](https://www.cambridge.org/highereducation/books/maths-a-students-survival-guide/D12E61923C2E86012D1D430BE5737AE0#overview)
+- [ ] Some discipline
 
 ### Courses
 
-- [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/)
+- [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs](https://cs61a.org/)
 - [ ] [UCB - CS 61B - Data Structures](https://sp21.datastructur.es/) [🥼](https://github.com/orgs/Berkeley-CS61B/repositories) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61b)
 - [ ] [CMU - 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/index.html) [📹](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50&sortColumn=10&sortAscending=true)
 - [ ] [Brown University - CSCI 0220 - Discrete Structures and Probability - Spring 2023](https://cs22.io/) [📕](https://www.cengage.uk/c/discrete-mathematics-with-applications-metric-edition-5e-epp/9780357114087/)
 
-### FAQ
+### FAQ:
 
 #### How long is this going to take?
 Count 200 to 250h per course.
 
 #### Shortcut?
-CS61A >> CS61B >> Full Stack Open.
+CS61A ->> CS61B ->> Full Stack Open.
 
 #### Will I be ready for a job after completion?
 Yes, but make sure to build a portfolio and start networking along the way. Getting a job is matter of who you know more than what you know if you don't have a degree.
