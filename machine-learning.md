@@ -1,0 +1,6 @@
+- [ ] [University of California, Berkeley - Data 100 - Principles and Techniques of Data Science](https://ds100.org/sp22/)
+- [ ] [University of California, Berkeley - Data 101 - Data 101 - Data Engineering](https://www.data101.org/sp24/)
+- [ ] [Carnegie Mellon University - 15-388 - Practical Data Science](http://www.datasciencecourse.org/)
+- [ ] [University of California, Berkeley - CS 188 - Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp23/)
+- [ ] [University of California, Berkeley - CS 189 - Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
+- [ ] [Carnegie Mellon University - 10-414 - Deep Learning Systems](https://dlsyscourse.org/)
