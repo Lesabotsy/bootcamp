@@ -13,7 +13,7 @@ This is a guide for people who want to self-study the basics of Computer Science
 ### Prerequisites
 
 - [ ] Fluency in english
-- [ ] High school mathematics [📕](https://www.cambridge.org/highereducation/books/maths-a-students-survival-guide/D12E61923C2E86012D1D430BE5737AE0#overview)
+- [ ] High school mathematics (go through [this](https://www.cambridge.org/highereducation/books/maths-a-students-survival-guide/D12E61923C2E86012D1D430BE5737AE0#overview) if needed)
 - [ ] Some discipline
 
 ### Courses
