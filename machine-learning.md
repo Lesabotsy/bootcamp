@@ -1,4 +1,4 @@
 - [ ] [UCB - Data 100 - Principles and Techniques of Data Science](https://ds100.org/sp22/)
 - [ ] [UCB - CS 188 - Introduction to AI](https://inst.eecs.berkeley.edu/~cs188/sp23/)
-- [ ] [UCB - CS 189 - Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
+- [ ] [UCB - CS 189 - Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) [📕](https://mml-book.github.io/)
 - [ ] [CMU - 10-414 - Deep Learning Systems](https://dlsyscourse.org/)
