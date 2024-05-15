@@ -32,7 +32,7 @@ There is a discord server [here](https://discord.gg/tkQ23SqG) if you're looking 
  - When stuck take a break. Only look at solution if it's taking days to solve. These courses are known to be hard and are supposed to be hard for a reason.
  - Build stuff. It does not have to be a novel thing. Pick something that's already been done, identify the main functionality and start from there. You can iterate or jump to something else when done. Some recommendations: a text editor, a version control system, a database, and old school video game like Snake or Pacman. 
 
-### FAQ:
+### FAQ
 
 #### How long is this going to take?
 Count 200 to 250h per course.
