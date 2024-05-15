@@ -27,7 +27,7 @@ There is a discord server [here](https://discord.gg/tkQ23SqG) if you're looking 
 
 ### Tips
 
- - Use a GNU/Linux distro, I suggest [Fedora](https://fedoraproject.org/), with [Distrobox](https://github.com/89luca89/distrobox) so that all your development environments are in separated containers. You will have to install lots of stuff, this will prevent conflicts and filling your computer with things you only need temporary.
+ - Use a GNU/Linux distro. I suggest [Fedora](https://fedoraproject.org/), with [Distrobox](https://github.com/89luca89/distrobox) so that all your development environments are in separated containers. You will have to install lots of stuff, this will prevent conflicts and filling your computer with things you only need temporary.
  - Use a simple text editor with syntax highlighting like [Helix](https://helix-editor.com/) so that you type everything, without the help of autocomplete or LSPs. They are good for productivity, they suck for learning. Things will stick better if you type and force yourself to remember what to type.
  - When stuck take a break. Only look at solution if it's taking days to solve. These courses are known to be hard and are supposed to be hard for a reason.
  - Build stuff. It does not have to be a novel thing. Pick something that's already been done, find out the basic functionality and start from there. You can iterate or jump to something else when done. Some recommendations: a text editor, a version control system, a database, and old school video game like Snake or Pacman. 
