@@ -38,4 +38,4 @@ There is a discord server [here](https://discord.gg/tkQ23SqG) if you're looking 
 Count 200 to 250h per course.
 
 #### Will I be ready for a job after completion?
-Yes, but make sure to build a portfolio and start networking along the way. Getting a job is matter of who you know more than what you know if you don't have a degree.
+Yes, but make sure to build a portfolio and start networking along the way. Getting a job is matter of who you know, more than what you know, if you don't have a degree.
