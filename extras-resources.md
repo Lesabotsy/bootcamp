@@ -1,0 +1,2 @@
+- [ ] [University of Helsinki - Python Programming MOOC](https://programming-24.mooc.fi/)
+- [ ] [University of Helsinki - Data Structures and Algorithms](https://tira.mooc.fi/spring-2024/)
