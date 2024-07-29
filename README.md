@@ -1,6 +1,6 @@
 ### Overview
 
-This is an opinonated guide for people who want to self-study the basics of Computer Science, in order to build solid foundations and avoid getting wiped by LLMs. I added two specialization path of my interest after you're done with the basics, in case you're interested too: [Web Development](https://github.com/Lesabotsy/bootcamp/blob/main/web-development.md), [Databases]() and [Machine Learning](https://github.com/Lesabotsy/bootcamp/blob/main/machine-learning.md). 
+This is an opinonated guide for people who want to self-study the basics of Computer Science, in order to build solid foundations and avoid getting wiped by LLMs. I added two specialization path of my interest after you're done with the basics, in case you're interested too: [Web Development](https://github.com/Lesabotsy/bootcamp/blob/main/web-development.md), [Databases](https://github.com/Lesabotsy/bootcamp/blob/main/databases.md) and [Machine Learning](https://github.com/Lesabotsy/bootcamp/blob/main/machine-learning.md). 
 There is a discord server [here](https://discord.gg/tkQ23SqG) if you're looking for a community of self learning people. These being university courses, they won't stay online forever, make your own backup with [yt-dlp](https://github.com/yt-dlp/yt-dlp) for videos, and [wget](https://www.gnu.org/software/wget/) for websites. Now about the courses:
 
 - CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.
