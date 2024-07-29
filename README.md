@@ -1,12 +1,11 @@
 ### Overview
 
-This is an opinonated guide for people who want to self-study the basics of Computer Science, in order to build solid foundations and avoid getting wiped by LLMs. I added two specialization path of my interest after you're done with the basics, in case you're interested too: [Web Development](https://github.com/Lesabotsy/bootcamp/blob/main/web-development.md), [Databases](https://github.com/Lesabotsy/bootcamp/blob/main/databases.md) and [Machine Learning](https://github.com/Lesabotsy/bootcamp/blob/main/machine-learning.md). 
+This is an opinonated guide for people who want to self-study the basics of Computer Science, in order to build solid foundations and avoid getting wiped by LLMs. I added some specializations path of my interest after you're done with the basics, in case you're interested too: [Web Development](https://github.com/Lesabotsy/bootcamp/blob/main/web-development.md), [Databases](https://github.com/Lesabotsy/bootcamp/blob/main/databases.md) and [Machine Learning](https://github.com/Lesabotsy/bootcamp/blob/main/machine-learning.md). 
 There is a discord server [here](https://discord.gg/tkQ23SqG) if you're looking for a community of self learning people. These being university courses, they won't stay online forever, make your own backup with [yt-dlp](https://github.com/yt-dlp/yt-dlp) for videos, and [wget](https://www.gnu.org/software/wget/) for websites. Now about the courses:
 
 - CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.
 - CS 61B deals with the more advanced engineering aspects of software, such as constructing and analyzing large programs.
 - 15-213 provides a programmer's view of how computer systems execute programs, store information, and communicate. It enables students to become more effective programmers, especially in dealing with issues of performance, portability and robustness.
-- 15-445 is on the design and implementation of database management systems, whatever you end up doing you will interact with databases. Case studies on open-source and commercial database systems are used to illustrate these techniques and trade-offs.
 - CSCI 0220 gives you the tools to explore interesting questions and convince yourself and others of their answers. You'll be introduced to new worlds of ideas and ways of thinking. We'll learn about Set Theory, Logic, Number Theory, Combinatorics, Graph Theory, and Probability.
 
 🥼 Labs | 📹 Videos | 📕 Books | [📝 Notes](https://github.com/Lesabotsy/bootcamp/blob/main/notes.md)
