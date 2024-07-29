@@ -21,7 +21,6 @@ There is a discord server [here](https://discord.gg/tkQ23SqG) if you're looking 
 - [ ] [UCB - CS 61A - Structure and Interpretation of Computer Programs](https://cs61a.org/)
 - [ ] [UCB - CS 61B - Data Structures](https://sp21.datastructur.es/) [🥼](https://github.com/orgs/Berkeley-CS61B/repositories) [📝](https://github.com/lesabotsy/bootcamp/blob/main/notes.md#cs-61b)
 - [ ] [CMU - 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/index.html) [📹](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50&sortColumn=10&sortAscending=true)
-- [ ] [CMU - 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
 - [ ] [Brown University - CSCI 0220 - Discrete Structures and Probability - Spring 2024](https://cs22.io/) [📹](https://www.youtube.com/playlist?list=PLPV0yK61XQvbn-lyV__bqK9XcQsxD_pWA)
 
 ### Tips
