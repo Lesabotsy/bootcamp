@@ -1,2 +1,2 @@
-- [ ] [CMU - 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
+- [ ] [CMU - 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2024/)
 - [ ] [CMU - 15-721 - Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/)
