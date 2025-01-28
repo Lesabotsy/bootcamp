@@ -1,3 +1,4 @@
 - [ ] [UCB - Data 100 - Principles and Techniques of Data Science](https://ds100.org/fa24/)
 - [ ] [UCB - CS 189 - Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) [📕](https://mml-book.github.io/)
 - [ ] [CMU - 10-414 - Deep Learning Systems](https://dlsyscourse.org/) [📕](https://udlbook.github.io/udlbook/)
+- [ ] [CMU - 17-445 - Machine Learning in Production ](https://mlip-cmu.github.io/s2025/)
