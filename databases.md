@@ -1,3 +1,3 @@
-- [ ] [CMU - 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2024/)
+- [ ] [CMU - 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2025/)
 - [ ] [CMU - 15-721 - Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/)
 - [ ] [CMU - 15-799 - Special Topics in Databases: Query Optimization](https://15799.courses.cs.cmu.edu/spring2025/)
