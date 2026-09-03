@@ -1,3 +1,2 @@
 - [ ] [Aalto University - Web Software Development](https://fitech101.aalto.fi/en/courses/web-software-development-v1)
 - [ ] [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)
-- [ ] [Aalto University - Designing and Building Scalable Web Applications](https://fitech101.aalto.fi/en/courses/designing-and-building-scalable-web-applications)
